@@ -1,5 +1,6 @@
 <<<<<<< Updated upstream:ReadMe.md
 <<<<<<< Updated upstream:ReadMe.md
+<<<<<<< Updated upstream:ReadMe.md
 # TGC-DAO
 
 ## TheGenuine Collective (TGC) is a new form of business organisation that aims to provide a platform for businesses to collaborate and thrive collectively along with their customers and suppliers.
@@ -9,6 +10,9 @@
 ## TGC would establish a DAO (Decentralised Autonomous Organisation)that would be built and run transparently, and governed by its members, who are also the shareholders of the company.
 
 ## Stay tuned for more updates and announcements.
+=======
+# TGC-DAO
+>>>>>>> Stashed changes:README.md
 =======
 # TGC-DAO
 >>>>>>> Stashed changes:README.md
