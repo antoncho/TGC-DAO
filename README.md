@@ -1,9 +1,18 @@
-# TGC-DAO
+# Stitchia Protocol
 
-## TheGenuine Collective (TGC) is a new form of business organisation that aims to provide a platform for businesses to collaborate and thrive collectively along with their customers and suppliers.
+This repository contains the smart contracts, token logic, documentation, and frontend components of the Stitchia Protocol — a regenerative cultural operating system built for decentralized coordination.
 
-## Despite the current centralised state and physical organisation anchoring the entire venture, TGC aims to elevate the governance structure of the business to a decentralised model, once the foundation platform is launched.
+- Whitepaper v2.5: `docs/whitepaper/stitchia_whitepaper_v2.5.md`
+- Changelog: `docs/whitepaper/CHANGELOG.md`
+- Dashboard Spec: `docs/DAO_Dashboard_Spec.md`
 
-## TGC would establish a DAO (Decentralised Autonomous Organisation)that would be built and run transparently, and governed by its members, who are also the shareholders of the company.
+Quick start (local):
 
-## Stay tuned for more updates and announcements.
+1. `./quantum init --with-example`
+2. `./quantum process scrolls/dao_dashboard_scroll.md`
+3. `./quantum build`
+4. Open `frontend/index.html` to preview the dashboard.
+
+Releases
+--------
+- v2.5 docs bundle: `releases/v2.5/stitchia-protocol-docs-v2.5.zip` (see `releases/v2.5/manifest.json` for SHA256)
