@@ -4,6 +4,7 @@ __MACOSX/
 
 # Archive bundles
 *.zip
+Anton Fabrica Setup Zip/
 
 # Node / Next.js build outputs
 node_modules/
