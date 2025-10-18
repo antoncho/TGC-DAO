@@ -1,0 +1,17 @@
+# macOS Finder artifacts
+.DS_Store
+__MACOSX/
+
+# Archive bundles
+*.zip
+
+# Node / Next.js build outputs
+node_modules/
+.next/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Fabrica runtime logs
+quantum_kernel_cli.log

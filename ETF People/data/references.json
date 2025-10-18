@@ -1,0 +1,45 @@
+{
+  "market_articles": [
+    {
+      "title": "Financial Times: Tokenization coverage",
+      "date": "2024-09",
+      "url": "https://www.ft.com/content/648f2249-5783-4e98-8412-4056f56ad1b0"
+    },
+    {
+      "title": "New York Fed: Tokenization – another giant leap",
+      "date": "2024-09-05",
+      "url": "https://tellerwindow.newyorkfed.org/2024/09/05/tokenization-another-giant-leap-for-securities/"
+    },
+    {
+      "title": "Institutional perspective on digital asset diversification",
+      "date": "2024-09",
+      "url": "https://bitcoinmagazine.com/business/blackrock-releases-a-new-report-bitcoin-a-unique-diversifier"
+    },
+    {
+      "title": "Markets Media: Fund tokenization prepares asset management",
+      "date": "2025-03",
+      "url": "https://www.marketsmedia.com/fund-tokenization-prepares-asset-management-for-perfect-storm/"
+    },
+    {
+      "title": "Disruption Banking: BNY and BlackRock bet big on blockchain",
+      "date": "2025-04-03",
+      "url": "https://www.disruptionbanking.com/2025/04/03/bny-and-blackrock-bet-big-on-blockchains-future/"
+    }
+  ],
+  "tokenization_landscape": [
+    {"description": "Tokenization adoption dashboard", "url": "https://ethereumadoption.com/"},
+    {"description": "Tokenized asset trading venue case study", "url": "https://tzero.com/trading/"},
+    {"description": "On-chain securities platform case study", "url": "https://swarm.com"},
+    {"description": "Tokenized fund issuance case study", "url": "https://assets.backed.fi"},
+    {"description": "Digital asset servicing case study", "url": "https://securitize.io"},
+    {"description": "Permissioned staking infrastructure example", "url": "https://www.linkedin.com/company/twinstake/"},
+    {"description": "Exchange-traded digital product case study", "url": "https://21shares.com"}
+  ],
+  "signals": [
+    {"description": "Ethereum adoption tracker", "url": "https://ethereumadoption.com/"},
+    {"description": "Bitcoin ETF market data", "url": "https://www.theblock.co/data/crypto-markets/bitcoin-etf"},
+    {"description": "Watcher Guru update", "url": "https://x.com/watcherguru/status/1906905605459390828?s=48&t=bXUEPmdmiIzDKzGkWXDG6g"},
+    {"description": "Bitcoin Magazine update", "url": "https://x.com/BitcoinMagazine/status/1914657229371801661"},
+    {"description": "Maldives blockchain hub announcement", "url": "https://blockchaintechnology-news.com/news/maldives-plans-8-billion-blockchain-hub-to-diversify-economy/"}
+  ]
+}
